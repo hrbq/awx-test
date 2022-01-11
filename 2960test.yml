@@ -1,0 +1,9 @@
+---
+
+- name: wala
+  hosts: ios
+  
+  tasks:
+    
+    - name: Hi
+      command: echo 'hi'
