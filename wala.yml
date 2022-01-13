@@ -1,0 +1,8 @@
+---
+
+- name: wala
+  
+  tasks:
+    
+    - name: Hi
+      command: echo 'hi'
