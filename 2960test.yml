@@ -1,7 +1,6 @@
 ---
 
 - name: wala
-  hosts: ios
   
   tasks:
     
