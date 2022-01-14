@@ -1,3 +1,5 @@
 - name: cisco.ios
+  src: https://galaxy.ansible.com/cisco/ios
 
 - name: ansible.netcommon
+  src: https://galaxy.ansible.com/ansible/netcommon
